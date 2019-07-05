@@ -2,4 +2,4 @@
 
 git add .
 git commit -a -m 'ss'
-git push 
+git push origin master
