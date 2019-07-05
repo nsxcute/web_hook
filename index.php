@@ -1,3 +1,3 @@
 <?php
 
-echo 11;
+echo exec('git pull');
