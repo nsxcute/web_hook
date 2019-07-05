@@ -1,0 +1,10 @@
+
+unset GIT_DIR
+ 
+#进入仓库B目录
+cd /home/www/test.git
+#执行git pull命令
+git pull /www/web_hook  master
+#返回仓库A并退出
+cd /home/wwwroot/default/web_hook
+exit 0
